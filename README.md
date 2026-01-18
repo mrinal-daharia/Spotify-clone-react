@@ -3,15 +3,11 @@
 This project is a Spotify-like music streaming UI built using **React** and **Vite**.  
 It features a modern layout, responsive design, and dynamic playlist management.
 
----
-
 ## 🚀 Features
 - Built with **React + Vite**
 - uses react hooks to manage the music dynamically
 - Component-based structure
 - Playlist and music player functionality
-
----
 
 ## 🖼️ Screenshots
 
@@ -20,8 +16,6 @@ It features a modern layout, responsive design, and dynamic playlist management.
 
 ### 📜 Playlist Page
 ![Playlist Screenshot](./playlist.png)
-
----
 
 ## ⚙️ Setup Instructions
 
